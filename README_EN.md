@@ -115,14 +115,17 @@ A lightweight, open-source, privacy-first **personal finance** and **expense tra
 
 ---
 
-## 📸 Screenshots
+## 📸 Customized App Screenshots
 
-<div align="center">
-  <img src="demo/videos/en/01-add-transaction.gif" alt="Add transaction" width="200" />
-  <img src="demo/videos/en/02-ai-text.gif" alt="AI text bookkeeping" width="200" />
-  <img src="demo/videos/en/04-data-analysis.gif" alt="Analytics" width="200" />
-  <img src="demo/videos/en/05-copy-transaction.gif" alt="Long press to copy a transaction" width="200" />
-</div>
+These screenshots show this customized build running in the Android emulator at different development stages. The monthly and yearly calendars contain demo data that has since been cleared; the home screenshot shows the empty ledger afterward. The app UI shown here is in Chinese.
+
+| Home · Voice shortcut | Month · Daily income and expenses |
+|:---:|:---:|
+| <img src="preview/custom/01-home.png" alt="Customized home screen with a voice shortcut next to Add" width="260" /> | <img src="preview/custom/02-month-calendar.png" alt="Monthly income and expense calendar with demo data" width="260" /> |
+
+| Year · Monthly income and expenses | Voice entry · Recording dialog |
+|:---:|:---:|
+| <img src="preview/custom/03-year-calendar.png" alt="Twelve-month income and expense calendar with demo data" width="260" /> | <img src="preview/custom/04-voice-entry.png" alt="Voice recording dialog opened from the home shortcut" width="260" /> |
 
 ### Home Widgets
 
@@ -138,7 +141,7 @@ A lightweight, open-source, privacy-first **personal finance** and **expense tra
 </details>
 
 <details>
-<summary>More screenshots (core features / dark mode)</summary>
+<summary>Other upstream screenshots (for reference)</summary>
 
 ### 9 Core Themes
 

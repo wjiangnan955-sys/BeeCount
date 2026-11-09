@@ -117,14 +117,17 @@
 
 ---
 
-## 📸 截图预览
+## 📸 本修改版界面
 
-<div align="center">
-  <img src="demo/videos/zh/01-add-transaction.gif" alt="快速记账" width="200" />
-  <img src="demo/videos/zh/02-ocr-recognition.gif" alt="AI 图片记账" width="200" />
-  <img src="demo/videos/zh/04-data-analysis.gif" alt="数据分析" width="200" />
-  <img src="demo/videos/zh/05-copy-transaction.gif" alt="长按复制交易" width="200" />
-</div>
+以下为本修改版在安卓模拟器中的实际运行截图，来自不同开发阶段。月、年日历中的金额为已清理的演示数据；首页展示清理后的状态。
+
+| 首页 · 语音快捷入口 | 月视图 · 每日收支 |
+|:---:|:---:|
+| <img src="preview/custom/01-home.png" alt="本修改版首页，记账按钮右侧新增语音入口" width="260" /> | <img src="preview/custom/02-month-calendar.png" alt="月收支日历，每天显示收入和支出，金额为演示数据" width="260" /> |
+
+| 年视图 · 每月收支 | 语音记账 · 录音窗口 |
+|:---:|:---:|
+| <img src="preview/custom/03-year-calendar.png" alt="年收支日历，按十二个月显示收入和支出，金额为演示数据" width="260" /> | <img src="preview/custom/04-voice-entry.png" alt="从首页语音入口打开的语音记账录音窗口" width="260" /> |
 
 ### 桌面小组件
 
@@ -140,7 +143,7 @@
 </details>
 
 <details>
-<summary>更多截图（主要功能 / 暗黑模式）</summary>
+<summary>原项目其他功能截图（仅供参考）</summary>
 
 ### 9 大功能主题
 
