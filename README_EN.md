@@ -28,7 +28,7 @@ Breakfast, a taxi ride, groceries, or a reimbursement — say what happened and 
 
 <sub>Screenshots are from different development stages. Calendar amounts are demo data that has since been cleared; the home screenshot shows the empty ledger afterward. The displayed UI is in Chinese.</sub>
 
-🔗 Original project: [TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount)
+### 🔗 Original project: **[TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount)**
 
 ## ✨ What Changed
 

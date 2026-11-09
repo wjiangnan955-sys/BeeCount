@@ -28,7 +28,7 @@
 
 <sub>截图来自不同开发阶段；月、年日历中的金额为已清理的演示数据，首页展示清理后的状态。</sub>
 
-🔗 原项目：[TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount)
+### 🔗 原项目：**[TNT-Likely/BeeCount](https://github.com/TNT-Likely/BeeCount)**
 
 ## ✨ 这个版本改了什么
 
